@@ -1,0 +1,34 @@
+Page path and screen class,diseaseId,curatedName,originalCategory,Views,Active users,Views per active user,Average engagement time per active user,Event count,Key events
+/disease/MONDO_0004975/associations,MONDO_0004975,Alzheimer disease,Neurologic,26386,2509,10.51654045436429,128.88640892785972,47260,0
+/disease/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,2282,600,3.803333333333333,81.68833333333333,4332,0
+/disease/EFO_1001870/associations,EFO_1001870,late-onset Alzheimers disease,Neurologic,160,27,5.925925925925926,50.7037037037037,280,0
+/evidence/ENSG00000142192/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,157,73,2.1506849315068495,185.13698630136983,477,68
+/disease/MONDO_0015140/associations,MONDO_0015140,early-onset autosomal dominant Alzheimer disease,Neurologic,87,15,5.8,68.53333333333333,173,0
+/evidence/ENSG00000087085/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,79,20,3.95,80.05,206,19
+/evidence/ENSG00000080815/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,59,26,2.269230769230769,76.26923076923077,162,25
+/disease/MONDO_0015140,MONDO_0015140,early-onset autosomal dominant Alzheimer disease,Neurologic,56,16,3.5,70.4375,116,0
+/disease/MONDO_0011913/associations,MONDO_0011913,Alzheimer disease 3,Neurologic,53,16,3.3125,29.875,104,0
+/disease/EFO_1001870,EFO_1001870,late-onset Alzheimers disease,Neurologic,52,17,3.0588235294117645,20.764705882352946,99,0
+/disease/MONDO_0100087/associations,MONDO_0100087,familial Alzheimer disease,Neurologic,52,14,3.7142857142857144,20.857142857142858,99,0
+/disease/MONDO_0100087,MONDO_0100087,familial Alzheimer disease,Neurologic,45,21,2.142857142857143,9.80952380952381,110,0
+/disease/MONDO_0007088/associations,MONDO_0007088,Alzheimer disease type 1,Neurologic,43,10,4.3,26.9,84,0
+/evidence/ENSG00000095970/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,33,17,1.9411764705882353,11.176470588235292,127,19
+/disease/MONDO_0011913,MONDO_0011913,Alzheimer disease 3,Neurologic,30,15,2.0,16.733333333333334,69,0
+/disease/MONDO_0014265,MONDO_0014265,Alzheimer disease 18,Neurologic,29,10,2.9,25.9,54,0
+/disease/EFO_0022957,EFO_0022957,early-onset Alzheimers disease,Neurologic,27,10,2.7,12.9,53,0
+/disease/EFO_0022957/associations,EFO_0022957,early-onset Alzheimers disease,Neurologic,27,12,2.25,21.083333333333332,55,0
+/evidence/ENSG00000137642/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,22,8,2.75,31.75,59,7
+/evidence/ENSG00000130203/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,19,15,1.2666666666666666,35.93333333333333,60,14
+/evidence/ENSG00000183454/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,16,4,4.0,51.5,41,2
+/disease/MONDO_0014265/associations,MONDO_0014265,Alzheimer disease 18,Neurologic,15,5,3.0,43.6,30,0
+/evidence/ENSG00000176884/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,14,12,1.1666666666666667,27.75,55,9
+/disease/MONDO_0004975/associations/,MONDO_0004975,Alzheimer disease,Neurologic,13,1,13.0,78.0,25,0
+/evidence/ENSG00000137845/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,13,5,2.6,21.0,35,2
+/disease/MONDO_0007088,MONDO_0007088,Alzheimer disease type 1,Neurologic,12,8,1.5,4.25,30,0
+/evidence/ENSG00000186868/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,12,5,2.4,22.8,32,5
+/evidence/ENSG00000198087/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,12,1,12.0,533.0,45,2
+/evidence/ENSG00000164885/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,10,8,1.25,11.875,33,4
+/evidence/ENSG00000080815/MONDO_0011913,MONDO_0011913,Alzheimer disease 3,Neurologic,9,4,2.25,8.0,25,4
+/evidence/ENSG00000164867/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,9,1,9.0,150.0,32,4
+/evidence/ENSG00000186318/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,9,2,4.5,29.5,26,1
+/evidence/ENSG00000196730/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,9,2,4.5,79.5,28,3

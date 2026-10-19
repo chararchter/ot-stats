@@ -1,0 +1,292 @@
+Page path and screen class,diseaseId,curatedName,originalCategory,Views,Active users,Views per active user,Average engagement time per active user,Event count,Key events
+/disease/MONDO_0004975/associations,MONDO_0004975,Alzheimer disease,Neurologic,26386,2509,10.51654045436429,128.88640892785972,47260,0
+/disease/MONDO_0005090/associations,MONDO_0005090,schizophrenia,Disorder,3301,253,13.047430830039524,170.25691699604744,5685,0
+/disease/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,2282,600,3.803333333333333,81.68833333333333,4332,0
+/disease/MONDO_0002009/associations,MONDO_0002009,major depressive disorder,Disorder,2001,194,10.314432989690722,116.54123711340206,3509,0
+/disease/MONDO_0004985/associations,MONDO_0004985,bipolar disorder,Disorder,1250,98,12.755102040816327,126.4795918367347,2113,0
+/disease/EFO_0004329/associations,EFO_0004329,alcohol drinking,Exposure/Environmental factor,835,11,75.9090909090909,195.63636363636363,1380,0
+/disease/MONDO_0007079/associations,MONDO_0007079,alcohol dependence,Disorder,786,21,37.42857142857143,101.76190476190476,1343,0
+/disease/MONDO_0021698/associations,MONDO_0021698,alcohol-related disorders,Disorder,751,19,39.526315789473685,51.94736842105263,1266,0
+/disease/MONDO_0001627/associations,MONDO_0001627,dementia,Neurologic,719,59,12.186440677966102,192.59322033898303,1269,0
+/disease/MONDO_0002050/associations,MONDO_0002050,depressive disorder,Disorder,660,115,5.739130434782608,72.30434782608695,1168,0
+/disease/EFO_0009458/associations,EFO_0009458,alcohol use disorder measurement,Disorder,492,12,41.0,78.5,823,0
+/disease/MONDO_0005090,MONDO_0005090,schizophrenia,Disorder,389,141,2.7588652482269502,37.297872340425535,853,0
+/disease/MONDO_0002009,MONDO_0002009,major depressive disorder,Disorder,345,101,3.415841584158416,37.64356435643565,755,0
+/disease/HP_0000739/associations,HP_0000739,Anxiety,Symptom,333,46,7.239130434782608,56.02173913043478,575,0
+/disease/EFO_0004718/associations,EFO_0004718,vascular dementia,Neurologic,217,25,8.68,115.04,453,0
+/disease/EFO_0003888/associations,EFO_0003888,attention deficit hyperactivity disorder,Disorder,207,51,4.0588235294117645,91.82352941176472,380,0
+/disease/EFO_0003758/associations,EFO_0003758,autism,Disorder,206,46,4.478260869565218,67.78260869565217,399,0
+/disease/MONDO_0017276/associations,MONDO_0017276,frontotemporal dementia,Disorder,196,42,4.666666666666667,75.35714285714286,348,0
+/disease/EFO_0010702/associations,EFO_0010702,opioid use disorder,Disorder,190,9,21.11111111111111,156.55555555555554,312,0
+/disease/EFO_0004698/associations,EFO_0004698,insomnia,Disorder,161,28,5.75,143.21428571428572,305,0
+/disease/EFO_1001870/associations,EFO_1001870,late-onset Alzheimers disease,Neurologic,160,27,5.925925925925926,50.7037037037037,280,0
+/disease/MONDO_0004985,MONDO_0004985,bipolar disorder,Disorder,158,60,2.6333333333333333,27.8,354,0
+/evidence/ENSG00000142192/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,157,73,2.1506849315068495,185.13698630136983,477,68
+/disease/EFO_0003756/associations,EFO_0003756,autism spectrum disorder,Disorder,156,35,4.457142857142857,59.82857142857143,306,0
+/disease/MONDO_0002050,MONDO_0002050,depressive disorder,Disorder,136,46,2.9565217391304346,29.32608695652174,277,0
+/disease/EFO_0003888,EFO_0003888,attention deficit hyperactivity disorder,Disorder,126,62,2.032258064516129,60.564516129032256,374,0
+/disease/EFO_0006792/associations,EFO_0006792,Lewy body dementia,Neurologic,122,24,5.083333333333333,25.875,260,0
+/disease/EFO_0005670/associations,EFO_0005670,smoking initiation,Exposure/Environmental factor,115,11,10.454545454545457,91.63636363636364,218,0
+/disease/MONDO_0010726/associations,MONDO_0010726,Rett syndrome,Disorder,115,17,6.764705882352941,175.7058823529412,202,0
+/disease/MONDO_0012454/associations,MONDO_0012454,"alcohol sensitivity, acute",Exposure/Environmental factor,115,36,3.1944444444444446,63.72222222222222,225,0
+/disease/EFO_0004228/associations,EFO_0004228,drug-induced liver injury,Irrelevant,108,17,6.352941176470588,209.8823529411765,199,0
+/disease/MONDO_0003406/associations,MONDO_0003406,sleep-wake disorder,Disorder,108,11,9.818181818181818,84.18181818181819,196,0
+/disease/MONDO_0021107/associations,MONDO_0021107,narcolepsy,Disorder,102,14,7.285714285714286,118.64285714285714,174,0
+/disease/EFO_0008573/associations,EFO_0008573,alcoholic liver disease,Irrelevant,97,14,6.928571428571429,66.21428571428571,175,0
+/disease/Orphanet_2828/associations,Orphanet_2828,Young adult-onset Parkinsonism,Irrelevant,94,17,5.529411764705882,49.35294117647059,171,0
+/disease/EFO_0004242/associations,EFO_0004242,obsessive-compulsive disorder,Disorder,92,19,4.842105263157895,117.84210526315788,167,0
+/disease/EFO_0007802/associations,EFO_0007802,obsessive-compulsive symptom measurement,Symptom,90,3,30.0,135.66666666666666,153,0
+/disease/MONDO_0016575/associations,MONDO_0016575,primary ciliary dyskinesia,Irrelevant,88,15,5.866666666666666,75.8,156,0
+/disease/MONDO_0015140/associations,MONDO_0015140,early-onset autosomal dominant Alzheimer disease,Neurologic,87,15,5.8,68.53333333333333,173,0
+/disease/EFO_0006788/associations,EFO_0006788,anxiety disorder,Disorder,85,26,3.269230769230769,94.57692307692308,163,0
+/disease/MONDO_0002039/associations,MONDO_0002039,cognitive disorder,Disorder,84,14,6.0,90.28571428571428,152,0
+/disease/MONDO_0001627,MONDO_0001627,dementia,Neurologic,80,24,3.3333333333333335,67.66666666666667,151,0
+/evidence/ENSG00000087085/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,79,20,3.95,80.05,206,19
+/disease/HP_0000738/associations,HP_0000738,Hallucinations,Symptom,78,6,13.0,87.66666666666667,121,0
+/evidence/ENSG00000110881/MONDO_0005090,MONDO_0005090,schizophrenia,Disorder,74,8,9.25,282.125,223,22
+/disease/MONDO_0010808/associations,MONDO_0010808,fatal familial insomnia,Disorder,72,4,18.0,211.5,124,0
+/disease/EFO_0001358/associations,EFO_0001358,post-traumatic stress disorder,Disorder,69,21,3.2857142857142856,66.28571428571429,126,0
+/disease/HP_0000739,HP_0000739,Anxiety,Symptom,69,27,2.5555555555555554,30.03703703703704,144,0
+/disease/EFO_0004318/associations,EFO_0004318,smoking behavior,Exposure/Environmental factor,67,11,6.090909090909091,38.63636363636363,118,0
+/evidence/ENSG00000080815/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,59,26,2.269230769230769,76.26923076923077,162,25
+/disease/HP_0001300/associations,HP_0001300,Parkinsonism,Irrelevant,58,18,3.2222222222222223,23.055555555555557,122,0
+/disease/MONDO_0015140,MONDO_0015140,early-onset autosomal dominant Alzheimer disease,Neurologic,56,16,3.5,70.4375,116,0
+/disease/MONDO_0011913/associations,MONDO_0011913,Alzheimer disease 3,Neurologic,53,16,3.3125,29.875,104,0
+/disease/EFO_1001870,EFO_1001870,late-onset Alzheimers disease,Neurologic,52,17,3.0588235294117645,20.764705882352946,99,0
+/disease/MONDO_0100087/associations,MONDO_0100087,familial Alzheimer disease,Neurologic,52,14,3.7142857142857144,20.857142857142858,99,0
+/disease/MONDO_0004938/associations,MONDO_0004938,substance dependence,Disorder,50,11,4.545454545454546,111.45454545454544,96,0
+/disease/MONDO_0008119/associations,MONDO_0008119,spinocerebellar ataxia type 1,Neurologic,50,6,8.333333333333334,43.333333333333336,88,0
+/disease/EFO_0004329,EFO_0004329,alcohol drinking,Exposure/Environmental factor,46,19,2.4210526315789473,17.105263157894736,103,0
+/disease/EFO_0008568/associations,EFO_0008568,Sleep Disorder,Disorder,45,13,3.4615384615384617,37.53846153846154,91,0
+/disease/MONDO_0017276,MONDO_0017276,frontotemporal dementia,Disorder,45,25,1.8,8.04,118,0
+/disease/MONDO_0100087,MONDO_0100087,familial Alzheimer disease,Neurologic,45,21,2.142857142857143,9.80952380952381,110,0
+/disease/EFO_0003756,EFO_0003756,autism spectrum disorder,Disorder,43,24,1.7916666666666667,18.75,108,0
+/disease/MONDO_0007088/associations,MONDO_0007088,Alzheimer disease type 1,Neurologic,43,10,4.3,26.9,84,0
+/disease/EFO_0005407/associations,EFO_0005407,psychosis,Disorder,42,8,5.25,46.625,68,0
+/disease/MONDO_0013498/associations,MONDO_0013498,schizophrenia 15,Disorder,42,14,3.0,18.0,70,0
+/disease/EFO_0006792,EFO_0006792,Lewy body dementia,Neurologic,41,22,1.8636363636363635,12.090909090909092,106,0
+/disease/EFO_0010702,EFO_0010702,opioid use disorder,Disorder,40,7,5.714285714285714,35.285714285714285,78,0
+/disease/MONDO_0001780/associations,MONDO_0001780,premature ejaculation,Irrelevant,40,6,6.666666666666667,22.5,76,0
+/disease/MONDO_0008457,MONDO_0008457,spinocerebellar ataxia type 6,Neurologic,40,1,40.0,109.0,79,0
+/disease/EFO_0000677,EFO_0000677,mental or behavioural disorder,Disorder,39,13,3.0,21.23076923076923,75,0
+/disease/MONDO_0007079,MONDO_0007079,alcohol dependence,Disorder,38,23,1.6521739130434785,16.91304347826087,112,0
+/disease/MONDO_0016158/associations,MONDO_0016158,narcolepsy-cataplexy syndrome,Disorder,38,10,3.8,215.7,76,0
+/disease/EFO_0003890/associations,EFO_0003890,drug dependence,Disorder,37,9,4.111111111111111,69.11111111111111,70,0
+/disease/EFO_0011049,EFO_0011049,drug misuse,Exposure/Environmental factor,36,27,1.3333333333333333,2.8518518518518516,121,0
+/disease/MONDO_0018044/associations,MONDO_0018044,idiopathic hypersomnia,Disorder,36,5,7.2,74.2,67,0
+/disease/MONDO_0016158,MONDO_0016158,narcolepsy-cataplexy syndrome,Disorder,35,18,1.9444444444444444,24.38888888888889,87,0
+/disease/MONDO_0016163/associations,MONDO_0016163,spinocerebellar ataxia 7,Neurologic,35,3,11.666666666666666,379.3333333333333,59,0
+/disease/MONDO_0016575,MONDO_0016575,primary ciliary dyskinesia,Irrelevant,35,27,1.2962962962962965,21.25925925925926,113,0
+/disease/EFO_0006788,EFO_0006788,anxiety disorder,Disorder,34,21,1.619047619047619,33.76190476190476,96,0
+/disease/Orphanet_136/associations,Orphanet_136,CADASIL,Neurologic,34,7,4.857142857142857,53.42857142857143,54,0
+/disease/EFO_0003096,EFO_0003096,Pick disease,Neurologic,33,16,2.0625,43.375,66,0
+/evidence/ENSG00000095970/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,33,17,1.9411764705882353,11.176470588235292,127,19
+/disease/EFO_0003918/associations,EFO_0003918,obstructive sleep apnea,Neurologic,32,7,4.571428571428571,85.42857142857143,58,0
+/disease/MONDO_0000594/associations,MONDO_0000594,pervasive developmental disorder,Disorder,32,7,4.571428571428571,15.142857142857142,63,0
+/disease/MONDO_0020380/associations,MONDO_0020380,autosomal dominant cerebellar ataxia,Neurologic,32,4,8.0,68.75,58,0
+/disease/EFO_0003096/associations,EFO_0003096,Pick disease,Neurologic,31,9,3.4444444444444446,54.666666666666664,52,0
+/disease/EFO_0003758,EFO_0003758,autism,Disorder,30,13,2.3076923076923075,21.76923076923077,62,0
+/disease/EFO_0010445/associations,EFO_0010445,cocaine use disorder,Disorder,30,4,7.5,41.25,47,0
+/disease/MONDO_0002494,MONDO_0002494,substance-related disorder,Disorder,30,9,3.3333333333333335,20.444444444444443,71,0
+/disease/MONDO_0011913,MONDO_0011913,Alzheimer disease 3,Neurologic,30,15,2.0,16.733333333333334,69,0
+/disease/EFO_0009963,EFO_0009963,bipolar I disorder,Disorder,29,17,1.7058823529411764,5.647058823529412,89,0
+/disease/MONDO_0002494/associations,MONDO_0002494,substance-related disorder,Disorder,29,9,3.2222222222222223,22.444444444444443,54,0
+/disease/MONDO_0014265,MONDO_0014265,Alzheimer disease 18,Neurologic,29,10,2.9,25.9,54,0
+/disease/EFO_0004247/associations,EFO_0004247,mood disorder,Disorder,28,9,3.111111111111111,100.33333333333331,54,0
+/disease/EFO_0004318,EFO_0004318,smoking behavior,Exposure/Environmental factor,28,22,1.2727272727272727,2.4545454545454546,92,0
+/disease/EFO_0010098/associations,EFO_0010098,stress-related disorder,Disorder,28,6,4.666666666666667,160.0,54,0
+/disease/MONDO_0005351/associations,MONDO_0005351,anorexia nervosa,Disorder,28,5,5.6,63.4,44,0
+/disease/OBA_2050116/associations,OBA_2050116,smoking behavior trait,Exposure/Environmental factor,28,5,5.6,39.0,57,0
+/disease/EFO_0005407,EFO_0005407,psychosis,Disorder,27,17,1.588235294117647,12.823529411764708,72,0
+/disease/EFO_0022957,EFO_0022957,early-onset Alzheimers disease,Neurologic,27,10,2.7,12.9,53,0
+/disease/EFO_0022957/associations,EFO_0022957,early-onset Alzheimers disease,Neurologic,27,12,2.25,21.083333333333332,55,0
+/disease/GO_0010226/associations,GO_0010226,response to lithium ion,Treatment response/side effect,26,4,6.5,52.5,47,0
+/disease/MONDO_0003406,MONDO_0003406,sleep-wake disorder,Disorder,26,10,2.6,8.3,62,0
+/evidence/ENSG00000111275/MONDO_0012454,MONDO_0012454,"alcohol sensitivity, acute",Exposure/Environmental factor,26,7,3.7142857142857144,38.285714285714285,72,3
+/disease/EFO_1001454,EFO_1001454,amnesia,Symptom,25,5,5.0,16.8,46,0
+/disease/MONDO_0015547,MONDO_0015547,hereditary dementia,Neurologic,25,18,1.3888888888888888,16.666666666666668,73,0
+/disease/MONDO_0021107,MONDO_0021107,narcolepsy,Disorder,25,14,1.7857142857142858,9.5,73,0
+/disease/Orphanet_2828,Orphanet_2828,Young adult-onset Parkinsonism,Irrelevant,25,18,1.3888888888888888,17.77777777777778,67,0
+/disease/EFO_0003768/associations,EFO_0003768,nicotine dependence,Disorder,24,8,3.0,148.25,48,0
+/disease/EFO_0005424/associations,EFO_0005424,dyslexia,Symptom,24,8,3.0,65.875,53,0
+/disease/GO_0010226,GO_0010226,response to lithium ion,Treatment response/side effect,24,6,4.0,18.0,49,0
+/disease/MONDO_0002039,MONDO_0002039,cognitive disorder,Disorder,24,12,2.0,13.666666666666666,67,0
+/disease/EFO_0006527,EFO_0006527,smoking status measurement,Exposure/Environmental factor,23,16,1.4375,65.125,77,0
+/disease/EFO_1001345/associations,EFO_1001345,"Hepatitis, Alcoholic",Irrelevant,23,5,4.6,26.0,42,0
+/disease/EFO_0002610,EFO_0002610,cocaine dependence,Disorder,22,20,1.1,10.2,88,0
+/disease/EFO_0004698,EFO_0004698,insomnia,Disorder,22,11,2.0,23.272727272727273,48,0
+/disease/EFO_0005670,EFO_0005670,smoking initiation,Exposure/Environmental factor,22,15,1.4666666666666666,7.0,62,0
+/disease/EFO_0007191/associations,EFO_0007191,cannabis dependence,Disorder,22,4,5.5,30.25,43,0
+/disease/MONDO_0007182/associations,MONDO_0007182,Machado-Joseph disease,Neurologic,22,6,3.6666666666666665,69.66666666666667,40,0
+/disease/OBA_1000840,OBA_1000840,alcohol consumption quality,Exposure/Environmental factor,22,18,1.2222222222222223,6.111111111111111,86,0
+/evidence/ENSG00000137642/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,22,8,2.75,31.75,59,7
+/evidence/ENSG00000178394/MONDO_0002009,MONDO_0002009,major depressive disorder,Disorder,22,5,4.4,35.8,59,4
+/disease/EFO_0003768,EFO_0003768,nicotine dependence,Disorder,21,14,1.5,13.785714285714286,62,0
+/disease/EFO_0005611/associations,EFO_0005611,opioid dependence,Disorder,21,5,4.2,196.8,44,0
+/disease/EFO_1002014/associations,EFO_1002014,melancholia,Symptom,21,4,5.25,53.25,33,0
+/disease/MONDO_0010808,MONDO_0010808,fatal familial insomnia,Disorder,21,7,3.0,76.0,48,0
+/disease/EFO_0002608,EFO_0002608,AIDS dementia,Neurologic,20,6,3.3333333333333335,16.333333333333332,41,0
+/disease/EFO_0004228,EFO_0004228,drug-induced liver injury,Irrelevant,20,10,2.0,33.9,48,0
+/disease/EFO_0004718,EFO_0004718,vascular dementia,Neurologic,20,11,1.818181818181818,30.90909090909091,49,0
+/disease/MONDO_0001162/associations,MONDO_0001162,impulse control disorder,Disorder,20,4,5.0,10.75,34,0
+/disease/MONDO_0002443/associations,MONDO_0002443,bruxism,Irrelevant,20,3,6.666666666666667,51.333333333333336,34,0
+/disease/MONDO_0020380,MONDO_0020380,autosomal dominant cerebellar ataxia,Neurologic,20,9,2.2222222222222223,23.22222222222222,51,0
+/disease/MONDO_0021698,MONDO_0021698,alcohol-related disorders,Disorder,20,15,1.3333333333333333,1.0666666666666669,58,0
+/disease/MONDO_0024361/associations,MONDO_0024361,circadian rhythm sleep disorder,Disorder,20,7,2.857142857142857,23.714285714285715,41,0
+/evidence/ENSG00000149295/MONDO_0005090,MONDO_0005090,schizophrenia,Disorder,20,8,2.5,27.25,59,9
+/disease/EFO_0002610/associations,EFO_0002610,cocaine dependence,Disorder,19,4,4.75,68.75,35,0
+/disease/EFO_0007010,EFO_0007010,drug use measurement,Irrelevant,19,14,1.3571428571428572,9.785714285714286,64,0
+/disease/EFO_0009854/associations,EFO_0009854,treatment resistant depression,Treatment response/side effect,19,5,3.8,46.2,33,0
+/disease/MONDO_0008119,MONDO_0008119,spinocerebellar ataxia type 1,Neurologic,19,8,2.375,7.75,45,0
+/disease/MONDO_0013886/associations,MONDO_0013886,cerebellar dysfunction with variable cognitive and behavioral abnormalities,Disorder,19,3,6.333333333333333,23.666666666666668,35,0
+/disease/MONDO_0018307/associations,MONDO_0018307,neurodegeneration with brain iron accumulation,Neurologic,19,9,2.111111111111111,18.88888888888889,34,0
+/evidence/ENSG00000130203/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,19,15,1.2666666666666666,35.93333333333333,60,14
+/disease/EFO_0001358,EFO_0001358,post-traumatic stress disorder,Disorder,18,11,1.6363636363636365,21.0,56,0
+/disease/EFO_0011059,EFO_0011059,psychiatric toxicity,Exposure/Environmental factor,18,10,1.8,3.5,51,0
+/disease/EFO_1001892/associations,EFO_1001892,generalized anxiety disorder,Disorder,18,4,4.5,23.5,34,0
+/disease/EFO_1001917/associations,EFO_1001917,social anxiety disorder,Disorder,18,5,3.6,46.6,30,0
+/disease/MONDO_0002420/associations,MONDO_0002420,tic disorder,Disorder,18,3,6.0,311.3333333333333,39,0
+/disease/MONDO_0011842,MONDO_0011842,GRN-related frontotemporal lobar degeneration with Tdp43 inclusions,Disorder,18,8,2.25,39.875,46,0
+/disease/MONDO_0024290/associations,MONDO_0024290,enuresis,Irrelevant,18,2,9.0,193.5,30,0
+/disease/Orphanet_136,Orphanet_136,CADASIL,Neurologic,18,8,2.25,22.125,42,0
+/disease/EFO_0004242,EFO_0004242,obsessive-compulsive disorder,Disorder,17,11,1.5454545454545454,8.090909090909092,51,0
+/disease/EFO_0004895/associations,EFO_0004895,Tourette syndrome,Disorder,17,8,2.125,60.875,38,0
+/disease/EFO_1002014,EFO_1002014,melancholia,Symptom,17,10,1.7,15.5,47,0
+/disease/MONDO_0002046/associations,MONDO_0002046,alcohol abuse,Exposure/Environmental factor,17,9,1.8888888888888888,11.77777777777778,39,0
+/disease/MONDO_0018044,MONDO_0018044,idiopathic hypersomnia,Disorder,17,14,1.2142857142857142,1.9285714285714288,57,0
+/disease/MONDO_0018544/associations,MONDO_0018544,adrenoleukodystrophy,Neurologic,17,6,2.8333333333333335,24.5,35,0
+/disease/MONDO_0018696/associations,MONDO_0018696,corticobasal syndrome,Neurologic,17,4,4.25,54.25,31,0
+/disease/MONDO_0041086/associations,MONDO_0041086,mixed anxiety and depressive disorder,Disorder,17,2,8.5,89.0,29,0
+/disease/EFO_0003918,EFO_0003918,obstructive sleep apnea,Neurologic,16,10,1.6,8.6,41,0
+/disease/EFO_0008568,EFO_0008568,Sleep Disorder,Disorder,16,11,1.4545454545454546,26.818181818181817,47,0
+/disease/EFO_0803368/associations,EFO_0803368,internet addiction disorder,Disorder,16,4,4.0,74.75,31,0
+/disease/MONDO_0002491,MONDO_0002491,substance abuse,Disorder,16,13,1.2307692307692308,9.307692307692308,53,0
+/disease/MONDO_0005351,MONDO_0005351,anorexia nervosa,Disorder,16,11,1.4545454545454546,1.818181818181818,52,0
+/disease/MONDO_0032637/associations,MONDO_0032637,"ciliary dyskinesia, primary, 39",Irrelevant,16,2,8.0,22.5,32,0
+/evidence/ENSG00000183454/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,16,4,4.0,51.5,41,2
+/disease/EFO_0004262/associations,EFO_0004262,panic disorder,Disorder,15,7,2.142857142857143,19.428571428571427,31,0
+/disease/EFO_0004895,EFO_0004895,Tourette syndrome,Disorder,15,13,1.1538461538461535,5.846153846153846,55,0
+/disease/HP_0000713/associations,HP_0000713,Agitation,Symptom,15,5,3.0,174.0,23,0
+/disease/MONDO_0002420,MONDO_0002420,tic disorder,Disorder,15,15,1.0,3.533333333333333,60,0
+/disease/MONDO_0014265/associations,MONDO_0014265,Alzheimer disease 18,Neurologic,15,5,3.0,43.6,30,0
+/disease/MONDO_0021104/associations,MONDO_0021104,alcoholic fatty liver disease,Irrelevant,15,6,2.5,51.833333333333336,33,0
+/disease/MONDO_0957396/associations,MONDO_0957396,"ciliary dyskinesia, primary, 51",Irrelevant,15,2,7.5,64.5,24,0
+/disease/EFO_0003877,EFO_0003877,sleep apnea,Neurologic,14,14,1.0,2.0,55,0
+/disease/EFO_0004320,EFO_0004320,suicidal ideation,Symptom,14,10,1.4,7.3,45,0
+/disease/EFO_0006322,EFO_0006322,antidepressant-induced sexual dysfunction,Treatment response/side effect,14,5,2.8,24.4,31,0
+/disease/EFO_0007453/associations,EFO_0007453,postpartum depression,Disorder,14,9,1.5555555555555556,38.22222222222222,34,0
+/disease/EFO_0008573,EFO_0008573,alcoholic liver disease,Irrelevant,14,9,1.5555555555555556,14.88888888888889,34,0
+/disease/EFO_1001892,EFO_1001892,generalized anxiety disorder,Disorder,14,10,1.4,2.7,37,0
+/disease/HP_0000713,HP_0000713,Agitation,Symptom,14,8,1.75,9.25,35,0
+/disease/MONDO_0000685,MONDO_0000685,visual agnosia,Symptom,14,14,1.0,0.2857142857142857,61,0
+/disease/MONDO_0004456,MONDO_0004456,cocaine abuse,Disorder,14,7,2.0,8.857142857142858,40,0
+/disease/MONDO_0008767/associations,MONDO_0008767,neuronal ceroid lipofuscinosis 3,Neurologic,14,3,4.666666666666667,42.333333333333336,28,0
+/disease/MONDO_0010100/associations,MONDO_0010100,Tay-Sachs disease,Neurologic,14,6,2.3333333333333335,7.333333333333333,29,0
+/disease/MONDO_0012454,MONDO_0012454,"alcohol sensitivity, acute",Exposure/Environmental factor,14,4,3.5,24.25,23,0
+/disease/MONDO_0019535/associations,MONDO_0019535,drug-induced autoimmune hemolytic anemia,Irrelevant,14,1,14.0,166.0,22,0
+/disease/OBA_2050116,OBA_2050116,smoking behavior trait,Exposure/Environmental factor,14,8,1.75,81.375,35,0
+/disease/Orphanet_240071,Orphanet_240071,Classical progressive supranuclear palsy,Neurologic,14,6,2.3333333333333335,4.0,35,0
+/evidence/ENSG00000176884/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,14,12,1.1666666666666667,27.75,55,9
+/disease/EFO_0003757,EFO_0003757,Asperger syndrome,Disorder,13,4,3.25,9.75,25,0
+/disease/EFO_0003757/associations,EFO_0003757,Asperger syndrome,Disorder,13,3,4.333333333333333,13.0,21,0
+/disease/EFO_0003890,EFO_0003890,drug dependence,Disorder,13,6,2.1666666666666665,33.5,30,0
+/disease/EFO_0004319/associations,EFO_0004319,smoking cessation,Exposure/Environmental factor,13,3,4.333333333333333,50.0,29,0
+/disease/EFO_0005203,EFO_0005203,eating disorder,Disorder,13,5,2.6,51.6,33,0
+/disease/EFO_0006790,EFO_0006790,cerebral amyloid angiopathy,Neurologic,13,10,1.3,2.0,51,0
+/disease/EFO_0007462,EFO_0007462,REM sleep behavior disorder,Neurologic,13,10,1.3,0.6,40,0
+/disease/EFO_0007585,EFO_0007585,Cannabis use,Exposure/Environmental factor,13,10,1.3,2.1,45,0
+/disease/HP_0030955/associations,HP_0030955,Addictive alcohol use,Disorder,13,6,2.1666666666666665,52.0,28,0
+/disease/MONDO_0000592,MONDO_0000592,specific developmental disorder,Disorder,13,9,1.4444444444444444,5.888888888888889,41,0
+/disease/MONDO_0002419,MONDO_0002419,transient tic disorder,Disorder,13,13,1.0,0.0,56,0
+/disease/MONDO_0004975/associations/,MONDO_0004975,Alzheimer disease,Neurologic,13,1,13.0,78.0,25,0
+/disease/MONDO_0008457/associations,MONDO_0008457,spinocerebellar ataxia type 6,Neurologic,13,4,3.25,13.75,23,0
+/disease/MONDO_0008767,MONDO_0008767,neuronal ceroid lipofuscinosis 3,Neurologic,13,5,2.6,7.2,28,0
+/disease/MONDO_0011426,MONDO_0011426,aceruloplasminemia,Neurologic,13,13,1.0,0.0,52,0
+/evidence/ENSG00000137845/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,13,5,2.6,21.0,35,2
+/evidence/ENSG00000141837/MONDO_0008457,MONDO_0008457,spinocerebellar ataxia type 6,Neurologic,13,2,6.5,53.5,38,3
+/disease/EFO_0002608/associations,EFO_0002608,AIDS dementia,Neurologic,12,2,6.0,16.0,23,0
+/disease/EFO_0004257,EFO_0004257,neurotic disorder,Disorder,12,10,1.2,2.1,39,0
+/disease/EFO_0005611,EFO_0005611,opioid dependence,Disorder,12,10,1.2,18.4,41,0
+/disease/EFO_0005800/associations,EFO_0005800,substance withdrawal syndrome,Exposure/Environmental factor,12,3,4.0,74.66666666666667,22,0
+/disease/EFO_1001454/associations,EFO_1001454,amnesia,Symptom,12,4,3.0,100.0,23,0
+/disease/HP_0000722/associations,HP_0000722,Compulsive behaviors,Symptom,12,4,3.0,101.25,21,0
+/disease/MONDO_0007088,MONDO_0007088,Alzheimer disease type 1,Neurologic,12,8,1.5,4.25,30,0
+/disease/MONDO_0007182,MONDO_0007182,Machado-Joseph disease,Neurologic,12,8,1.5,4.625,35,0
+/disease/MONDO_0011833,MONDO_0011833,spinocerebellar ataxia type 21,Neurologic,12,11,1.0909090909090908,1.5454545454545454,48,0
+/disease/MONDO_0018740/associations,MONDO_0018740,drug-induced methemoglobinemia,Irrelevant,12,4,3.0,19.0,28,0
+/disease/MONDO_0018868,MONDO_0018868,metachromatic leukodystrophy,Neurologic,12,6,2.0,58.5,31,0
+/disease/MONDO_0021104,MONDO_0021104,alcoholic fatty liver disease,Irrelevant,12,6,2.0,47.0,26,0
+/evidence/ENSG00000142319/EFO_0003888,EFO_0003888,attention deficit hyperactivity disorder,Disorder,12,5,2.4,10.8,31,4
+/evidence/ENSG00000149295/MONDO_0002009,MONDO_0002009,major depressive disorder,Disorder,12,12,1.0,26.75,45,12
+/evidence/ENSG00000178394/MONDO_0005090,MONDO_0005090,schizophrenia,Disorder,12,3,4.0,17.666666666666668,30,0
+/evidence/ENSG00000186868/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,12,5,2.4,22.8,32,5
+/evidence/ENSG00000198087/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,12,1,12.0,533.0,45,2
+/disease/EFO_0004247,EFO_0004247,mood disorder,Disorder,11,9,1.2222222222222223,6.666666666666667,38,0
+/disease/EFO_0004319,EFO_0004319,smoking cessation,Exposure/Environmental factor,11,9,1.2222222222222223,1.4444444444444444,40,0
+/disease/EFO_0005855,EFO_0005855,narcolepsy without cataplexy,Disorder,11,6,1.8333333333333333,18.5,32,0
+/disease/EFO_0006527/associations,EFO_0006527,smoking status measurement,Exposure/Environmental factor,11,2,5.5,33.0,19,0
+/disease/EFO_0007623,EFO_0007623,suicide behaviour,Symptom,11,11,1.0,0.0,49,0
+/disease/EFO_0009267,EFO_0009267,delirium,Disorder,11,10,1.1,0.3,37,0
+/disease/EFO_0021784/associations,EFO_0021784,age at initiation of smoking,Exposure/Environmental factor,11,3,3.6666666666666665,25.0,24,0
+/disease/HP_0020174,HP_0020174,Refractory drug response,Irrelevant,11,11,1.0,0.0,46,0
+/disease/MONDO_0002028,MONDO_0002028,personality disorder,Disorder,11,6,1.8333333333333333,1.8333333333333333,34,0
+/disease/MONDO_0004731/associations,MONDO_0004731,central sleep apnea syndrome,Neurologic,11,3,3.6666666666666665,12.0,20,0
+/disease/Orphanet_101435,Orphanet_101,Dentatorubral pallidoluysian atrophy,Disorder,11,10,1.1,0.0,45,0
+/disease/Orphanet_99750,Orphanet_99750,Atypical progressive supranuclear palsy,Neurologic,11,4,2.75,4.0,21,0
+/evidence/ENSG00000102468/MONDO_0005090,MONDO_0005090,schizophrenia,Disorder,11,4,2.75,11.5,28,1
+/disease/EFO_0005548,EFO_0005548,developmental disorder of mental health,Disorder,10,11,0.9090909090909092,0.5454545454545454,46,0
+/disease/EFO_0009458,EFO_0009458,alcohol use disorder measurement,Disorder,10,6,1.6666666666666667,7.833333333333333,30,0
+/disease/EFO_0009854,EFO_0009854,treatment resistant depression,Treatment response/side effect,10,4,2.5,23.5,22,0
+/disease/EFO_0009940,EFO_0009940,Antidepressant use measurement,Exposure/Environmental factor,10,2,5.0,2.0,18,0
+/disease/EFO_0020911,EFO_0020911,overdose,Exposure/Environmental factor,10,3,3.3333333333333335,92.66666666666669,23,0
+/disease/EFO_0600040,EFO_0600040,plasma clozapine-to-N-desmethylclozapine ratio measurement,Treatment response/side effect,10,10,1.0,0.2,38,0
+/disease/HP_0001300,HP_0001300,Parkinsonism,Irrelevant,10,7,1.4285714285714286,4.0,27,0
+/disease/MONDO_0001780,MONDO_0001780,premature ejaculation,Irrelevant,10,7,1.4285714285714286,2.857142857142857,36,0
+/disease/MONDO_0002491/associations,MONDO_0002491,substance abuse,Disorder,10,5,2.0,18.0,18,0
+/disease/MONDO_0010100,MONDO_0010100,Tay-Sachs disease,Neurologic,10,8,1.25,1.875,30,0
+/disease/MONDO_0013498,MONDO_0013498,schizophrenia 15,Disorder,10,6,1.6666666666666667,52.5,21,0
+/disease/MONDO_0013886,MONDO_0013886,cerebellar dysfunction with variable cognitive and behavioral abnormalities,Disorder,10,9,1.1111111111111112,0.8888888888888888,39,0
+/disease/MONDO_0014952,MONDO_0014952,intellectual disability-epilepsy-extrapyramidal syndrome,Irrelevant,10,10,1.0,0.1,42,0
+/disease/MONDO_0018740,MONDO_0018740,drug-induced methemoglobinemia,Irrelevant,10,8,1.25,0.5,36,0
+/disease/MONDO_0020143,MONDO_0020143,cerebral lipidosis with dementia,Neurologic,10,6,1.6666666666666667,6.166666666666667,27,0
+/disease/MONDO_0024361,MONDO_0024361,circadian rhythm sleep disorder,Disorder,10,7,1.4285714285714286,2.142857142857143,32,0
+/disease/NCIT_C95746,NCIT_C95746,sleepiness,Symptom,10,5,2.0,7.6,21,0
+/disease/Orphanet_101992,Orphanet_101,Dentatorubral pallidoluysian atrophy,Disorder,10,3,3.3333333333333335,35.0,22,0
+/disease/Orphanet_240071/associations,Orphanet_240071,Classical progressive supranuclear palsy,Neurologic,10,5,2.0,8.4,22,0
+/disease/Orphanet_98757,Orphanet_98757,Spinocerebellar ataxia type 3,Neurologic,10,10,1.0,0.0,41,0
+/disease/Orphanet_98757/associations,Orphanet_98757,Spinocerebellar ataxia type 3,Neurologic,10,5,2.0,16.8,26,0
+/evidence/ENSG00000164885/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,10,8,1.25,11.875,33,4
+/disease/EFO_0000677/associations,EFO_0000677,mental or behavioural disorder,Disorder,9,3,3.0,63.333333333333336,17,0
+/disease/EFO_0003877/associations,EFO_0003877,sleep apnea,Neurologic,9,5,1.8,18.4,19,0
+/disease/EFO_0005246,EFO_0005246,hypersomnia,Disorder,9,8,1.125,1.5,32,0
+/disease/EFO_0006322/associations,EFO_0006322,antidepressant-induced sexual dysfunction,Treatment response/side effect,9,1,9.0,96.0,17,0
+/disease/EFO_0007453,EFO_0007453,postpartum depression,Disorder,9,8,1.125,2.25,33,0
+/disease/EFO_0007462/associations,EFO_0007462,REM sleep behavior disorder,Neurologic,9,5,1.8,50.4,20,0
+/disease/EFO_0007645,EFO_0007645,longitudinal alcohol consumption measurement,Exposure/Environmental factor,9,9,1.0,0.0,39,0
+/disease/EFO_0009687,EFO_0009687,somatoform disorder,Disorder,9,6,1.5,0.8333333333333334,23,0
+/disease/EFO_0009863,EFO_0009863,anxiety measurement,Symptom,9,9,1.0,0.1111111111111111,38,0
+/disease/EFO_0009888,EFO_0009888,trauma complication,Exposure/Environmental factor,9,7,1.2857142857142858,0.4285714285714285,27,0
+/disease/EFO_1000903,EFO_1000903,drug-induced akathisia,Treatment response/side effect,9,9,1.0,0.8888888888888888,40,0
+/disease/HP_0100660,HP_0100660,Dyskinesia,Irrelevant,9,6,1.5,6.5,20,0
+/disease/HP_0100660/associations,HP_0100660,Dyskinesia,Irrelevant,9,5,1.8,7.0,19,0
+/disease/MONDO_0004456/associations,MONDO_0004456,cocaine abuse,Disorder,9,4,2.25,20.5,15,0
+/disease/MONDO_0004681,MONDO_0004681,learning disability,Disorder,9,7,1.2857142857142858,10.571428571428571,30,0
+/disease/MONDO_0008769,MONDO_0008769,neuronal ceroid lipofuscinosis 2,Neurologic,9,7,1.2857142857142858,2.4285714285714284,34,0
+/disease/MONDO_0010726,MONDO_0010726,Rett syndrome,Disorder,9,7,1.2857142857142858,4.142857142857143,30,0
+/disease/MONDO_0011842/associations,MONDO_0011842,GRN-related frontotemporal lobar degeneration with Tdp43 inclusions,Disorder,9,5,1.8,11.0,17,0
+/disease/MONDO_0012116/associations,MONDO_0012116,spinocerebellar ataxia type 8,Neurologic,9,2,4.5,12.0,20,0
+/disease/MONDO_0015427,MONDO_0015427,paroxysmal dyskinesia,Irrelevant,9,7,1.2857142857142858,1.1428571428571428,27,0
+/disease/MONDO_0016163,MONDO_0016163,spinocerebellar ataxia 7,Neurologic,9,5,1.8,29.8,26,0
+/disease/MONDO_0017161/associations,MONDO_0017161,frontotemporal dementia with motor neuron disease,Disorder,9,5,1.8,19.8,23,0
+/disease/MONDO_0017176/associations,MONDO_0017176,Machado-Joseph disease type 3,Neurologic,9,3,3.0,3.0,20,0
+/disease/MONDO_0018696,MONDO_0018696,corticobasal syndrome,Neurologic,9,6,1.5,2.8333333333333335,28,0
+/disease/MONDO_0030676/associations,MONDO_0030676,"parkinsonism-dystonia 3, childhood-onset",Irrelevant,9,1,9.0,11.0,21,0
+/disease/MONDO_0100518,MONDO_0100518,hereditary attention deficit-hyperactivity disorder,Disorder,9,4,2.25,15.25,23,0
+/disease/MONDO_0850514,MONDO_0850514,inclusion body myopathy and brain white matter abnormalities,Neurologic,9,10,0.9,0.0,37,0
+/disease/Orphanet_101016,Orphanet_101,Dentatorubral pallidoluysian atrophy,Disorder,9,6,1.5,14.666666666666666,22,0
+/disease/Orphanet_101076/associations,Orphanet_101,Dentatorubral pallidoluysian atrophy,Disorder,9,1,9.0,39.0,18,0
+/disease/Orphanet_247522,Orphanet_247522,Primary ciliary dyskinesia - retinitis pigmentosa,Irrelevant,9,8,1.125,0.375,33,0
+/evidence/ENSG00000080815/MONDO_0011913,MONDO_0011913,Alzheimer disease 3,Neurologic,9,4,2.25,8.0,25,4
+/evidence/ENSG00000164867/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,9,1,9.0,150.0,32,4
+/evidence/ENSG00000186318/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,9,2,4.5,29.5,26,1
+/evidence/ENSG00000196730/MONDO_0004975,MONDO_0004975,Alzheimer disease,Neurologic,9,2,4.5,79.5,28,3

@@ -1,0 +1,576 @@
+diseaseId	originalCategory	curatedName
+GO_0010226	Treatment response/side effect	response to lithium ion
+GO_0036276	Treatment response/side effect	response to antidepressant
+GO_0097332	Treatment response/side effect	response to antipsychotic drug
+GO_0097338	Treatment response/side effect	response to clozapine
+GO_1904014	Treatment response/side effect	response to serotonin
+HP_0000713	Symptom	Agitation
+HP_0000722	Symptom	Compulsive behaviors
+HP_0000725	Symptom	Psychotic episodes
+HP_0000738	Symptom	Hallucinations
+HP_0000739	Symptom	Anxiety
+HP_0000746	Symptom	Delusion
+HP_0001300	Irrelevant	Parkinsonism
+HP_0002310	Irrelevant	Orofacial dyskinesia
+HP_0002367	Symptom	Visual hallucination
+HP_0008765	Symptom	Auditory hallucination
+HP_0008770	Symptom	Obsessive-compulsive trait
+HP_0012235	Treatment response/side effect	Drug-induced agranulocytosis
+HP_0020174	Irrelevant	Refractory drug response
+HP_0030955	Disorder	Addictive alcohol use
+HP_0100660	Irrelevant	Dyskinesia
+HP_0410149	Irrelevant	Drug-induced anaphylaxis
+MONDO_0000507	Neurologic	inclusion body myopathy with Paget disease of bone and frontotemporal dementia
+MONDO_0000592	Disorder	specific developmental disorder
+MONDO_0000594	Disorder	pervasive developmental disorder
+MONDO_0000595	Disorder	sexual disorder
+MONDO_0000596	Disorder	paraphilic disorder
+MONDO_0000661	Symptom	alexithymia
+MONDO_0000666	Symptom	associative visual agnosia
+MONDO_0000685	Symptom	visual agnosia
+MONDO_0000723	Disorder	stutter disorder
+MONDO_0000947	Disorder	psychosexual disorder
+MONDO_0001074	Disorder	chronic tic disorder
+MONDO_0001087	Disorder	schizotypal personality disorder
+MONDO_0001152	Disorder	amnestic disorder
+MONDO_0001157	Disorder	dependent personality disorder
+MONDO_0001160	Disorder	dissociative disorder
+MONDO_0001161	Disorder	schizoid personality disorder
+MONDO_0001162	Disorder	impulse control disorder
+MONDO_0001163	Disorder	paranoid personality disorder
+MONDO_0001185	Symptom	dissociative amnesia
+MONDO_0001423	Disorder	drug-induced mental disorder
+MONDO_0001627	Neurologic	dementia
+MONDO_0001697	Disorder	reading disorder
+MONDO_0001780	Irrelevant	premature ejaculation
+MONDO_0001815	Irrelevant	extrapyramidal and movement disease
+MONDO_0002009	Disorder	major depressive disorder
+MONDO_0002028	Disorder	personality disorder
+MONDO_0002039	Disorder	cognitive disorder
+MONDO_0002046	Exposure/Environmental factor	alcohol abuse
+MONDO_0002050	Disorder	depressive disorder
+MONDO_0002182	Disorder	communication disorder
+MONDO_0002265	Disorder	stereotypic movement disorder
+MONDO_0002326	Disorder	alcohol-induced mental disorder
+MONDO_0002419	Disorder	transient tic disorder
+MONDO_0002420	Disorder	tic disorder
+MONDO_0002443	Irrelevant	bruxism
+MONDO_0002491	Disorder	substance abuse
+MONDO_0002494	Disorder	substance-related disorder
+MONDO_0003265	Disorder	adjustment disorder
+MONDO_0003406	Disorder	sleep-wake disorder
+MONDO_0004359	Disorder	delusional disorder
+MONDO_0004456	Disorder	cocaine abuse
+MONDO_0004617	Disorder	recurrent hypersomnia
+MONDO_0004630	Disorder	substance-induced psychosis
+MONDO_0004681	Disorder	learning disability
+MONDO_0004730	Disorder	speech disorder
+MONDO_0004731	Neurologic	central sleep apnea syndrome
+MONDO_0004750	Disorder	language disorder
+MONDO_0004938	Disorder	substance dependence
+MONDO_0004975	Neurologic	Alzheimer disease
+MONDO_0004985	Disorder	bipolar disorder
+MONDO_0005090	Disorder	schizophrenia
+MONDO_0005351	Disorder	anorexia nervosa
+MONDO_0007079	Disorder	alcohol dependence
+MONDO_0007088	Neurologic	Alzheimer disease type 1
+MONDO_0007098	Neurologic	ACys amyloidosis
+MONDO_0007104	Irrelevant	amyotrophic lateral sclerosis-parkinsonism-dementia complex
+MONDO_0007105	Disorder	frontotemporal dementia and/or amyotrophic lateral sclerosis 1
+MONDO_0007182	Neurologic	Machado-Joseph disease
+MONDO_0007296	Neurologic	spinocerebellar ataxia type 31
+MONDO_0007297	Neurologic	ADan amyloidosis
+MONDO_0007298	Neurologic	spinocerebellar ataxia type 29
+MONDO_0007435	Disorder	dentatorubral-pallidoluysian atrophy
+MONDO_0007574	Neurologic	spinocerebellar ataxia type 34
+MONDO_0008083	Neurologic	ceroid lipofuscinosis, neuronal, 4 (Kufs type)
+MONDO_0008119	Neurologic	spinocerebellar ataxia type 1
+MONDO_0008178	Neurologic	inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1
+MONDO_0008187	Disorder	panic disorder 1
+MONDO_0008306	Neurologic	ABri amyloidosis
+MONDO_0008457	Neurologic	spinocerebellar ataxia type 6
+MONDO_0008458	Neurologic	spinocerebellar ataxia type 2
+MONDO_0008483	Neurologic	stuttering, familial persistent, 1
+MONDO_0008654	Neurologic	spinocerebellar ataxia 27A
+MONDO_0008695	Disorder	chorea-acanthocytosis
+MONDO_0008767	Neurologic	neuronal ceroid lipofuscinosis 3
+MONDO_0008768	Neurologic	ceroid lipofuscinosis, neuronal, 6B (Kufs type)
+MONDO_0008769	Neurologic	neuronal ceroid lipofuscinosis 2
+MONDO_0008948	Neurologic	cerebrotendinous xanthomatosis
+MONDO_0009150	Irrelevant	hypohidrotic ectodermal dysplasia-hypothyroidism-ciliary dyskinesia syndrome
+MONDO_0009265	Neurologic	Gaucher disease type I
+MONDO_0009319	Neurologic	pantothenate kinase-associated neurodegeneration
+MONDO_0009419	Neurologic	Woodhouse-Sakati syndrome
+MONDO_0009591	Neurologic	metachromatic leukodystrophy, juvenile form
+MONDO_0009839	Irrelevant	progressive supranuclear palsy-parkinsonism syndrome
+MONDO_0010006	Neurologic	Sandhoff disease
+MONDO_0010100	Neurologic	Tay-Sachs disease
+MONDO_0010235	Disorder	X-linked intellectual disability-psychosis-macroorchidism syndrome
+MONDO_0010247	Neurologic	X-linked cerebral adrenoleukodystrophy
+MONDO_0010476	Neurologic	neurodegeneration with brain iron accumulation 5
+MONDO_0010482	Irrelevant	X-linked parkinsonism-spasticity syndrome
+MONDO_0010709	Irrelevant	early-onset parkinsonism-intellectual disability syndrome
+MONDO_0010726	Disorder	Rett syndrome
+MONDO_0010747	Irrelevant	X-linked dystonia-parkinsonism
+MONDO_0010808	Disorder	fatal familial insomnia
+MONDO_0010830	Neurologic	neuronal ceroid lipofuscinosis 8
+MONDO_0010847	Neurologic	spinocerebellar ataxia type 4
+MONDO_0010848	Neurologic	spinocerebellar ataxia type 5
+MONDO_0010857	Neurologic	semantic dementia
+MONDO_0011038	Neurologic	cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome
+MONDO_0011144	Neurologic	ceroid lipofuscinosis, neuronal, 6A
+MONDO_0011327	Neurologic	neuronal intranuclear inclusion disease
+MONDO_0011330	Neurologic	spinocerebellar ataxia type 10
+MONDO_0011397	Neurologic	autosomal dominant cerebellar ataxia, deafness and narcolepsy
+MONDO_0011426	Neurologic	aceruloplasminemia
+MONDO_0011439	Neurologic	spinocerebellar ataxia type 12
+MONDO_0011464	Neurologic	spinocerebellar ataxia type 11
+MONDO_0011487	Neurologic	Huntington disease-like 3
+MONDO_0011529	Neurologic	spinocerebellar ataxia type 13
+MONDO_0011540	Neurologic	spinocerebellar ataxia type 14
+MONDO_0011583	Neurologic	cerebral amyloid angiopathy, APP-related
+MONDO_0011638	Neurologic	neuroferritinopathy
+MONDO_0011671	Neurologic	Huntington disease-like 2
+MONDO_0011694	Neurologic	spinocerebellar ataxia type 15/16
+MONDO_0011706	Neurologic	Kufor-Rakeb syndrome
+MONDO_0011781	Neurologic	spinocerebellar ataxia type 17
+MONDO_0011819	Neurologic	spinocerebellar ataxia type 19/22
+MONDO_0011833	Neurologic	spinocerebellar ataxia type 21
+MONDO_0011834	Neurologic	spinocerebellar ataxia type 18
+MONDO_0011842	Disorder	GRN-related frontotemporal lobar degeneration with Tdp43 inclusions
+MONDO_0011913	Neurologic	Alzheimer disease 3
+MONDO_0012088	Irrelevant	primary ciliary dyskinesia 5
+MONDO_0012098	Neurologic	spinocerebellar ataxia type 20
+MONDO_0012103	Neurologic	spinocerebellar ataxia type 25
+MONDO_0012116	Neurologic	spinocerebellar ataxia type 8
+MONDO_0012188	Neurologic	neuronal ceroid lipofuscinosis 9
+MONDO_0012232	Neurologic	stuttering, familial persistent, 2
+MONDO_0012246	Neurologic	spinocerebellar ataxia type 26
+MONDO_0012247	Neurologic	spinocerebellar ataxia type 27
+MONDO_0012276	Irrelevant	generalized epilepsy-paroxysmal dyskinesia syndrome
+MONDO_0012391	Neurologic	neuronal ceroid lipofuscinosis 8 northern epilepsy variant
+MONDO_0012414	Neurologic	neuronal ceroid lipofuscinosis 10
+MONDO_0012444	Neurologic	neurodegeneration with brain iron accumulation 2B
+MONDO_0012449	Neurologic	spinocerebellar ataxia type 23
+MONDO_0012450	Neurologic	spinocerebellar ataxia type 28
+MONDO_0012454	Exposure/Environmental factor	alcohol sensitivity, acute
+MONDO_0013060	Neurologic	autosomal recessive Parkinson disease 14
+MONDO_0013150	Irrelevant	parkinsonism-dystonia, infantile
+MONDO_0013189	Disorder	trichotillomania
+MONDO_0013241	Neurologic	spinocerebellar ataxia type 30
+MONDO_0013485	Neurologic	spinocerebellar ataxia type 35
+MONDO_0013486	Neurologic	spinocerebellar ataxia type 32
+MONDO_0013498	Disorder	schizophrenia 15
+MONDO_0013501	Disorder	frontotemporal dementia and/or amyotrophic lateral sclerosis 6
+MONDO_0013584	Neurologic	hereditary sensory neuropathy-deafness-dementia syndrome
+MONDO_0013594	Neurologic	spinocerebellar ataxia type 36
+MONDO_0013674	Neurologic	neurodegeneration with brain iron accumulation 4
+MONDO_0013696	Disorder	chromosome 2p16.3 deletion syndrome
+MONDO_0013844	Neurologic	stuttering, familial persistent, 4
+MONDO_0013866	Neurologic	neuronal ceroid lipofuscinosis 11
+MONDO_0013886	Disorder	cerebellar dysfunction with variable cognitive and behavioral abnormalities
+MONDO_0014123	Irrelevant	primary ciliary dyskinesia 21
+MONDO_0014147	Neurologic	neuronal ceroid lipofuscinosis 13
+MONDO_0014178	Neurologic	inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 2
+MONDO_0014179	Neurologic	inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 3
+MONDO_0014265	Neurologic	Alzheimer disease 18
+MONDO_0014290	Neurologic	neurodegeneration with brain iron accumulation 6
+MONDO_0014300	Irrelevant	proximal myopathy with extrapyramidal signs
+MONDO_0014410	Neurologic	spinocerebellar ataxia type 37
+MONDO_0014641	Disorder	frontotemporal dementia and/or amyotrophic lateral sclerosis 4
+MONDO_0014952	Irrelevant	intellectual disability-epilepsy-extrapyramidal syndrome
+MONDO_0015033	Neurologic	ABeta amyloidosis, dutch type
+MONDO_0015059	Disorder	progressive non-fluent aphasia
+MONDO_0015140	Neurologic	early-onset autosomal dominant Alzheimer disease
+MONDO_0015339	Neurologic	adrenomyeloneuropathy
+MONDO_0015427	Irrelevant	paroxysmal dyskinesia
+MONDO_0015547	Neurologic	hereditary dementia
+MONDO_0015548	Neurologic	Huntington disease-like syndrome
+MONDO_0015609	Disorder	advanced sleep phase syndrome
+MONDO_0015681	Disorder	childhood disintegrative disorder
+MONDO_0016052	Disorder	atypical autism
+MONDO_0016091	Neurologic	adult Krabbe disease
+MONDO_0016158	Disorder	narcolepsy-cataplexy syndrome
+MONDO_0016163	Neurologic	spinocerebellar ataxia 7
+MONDO_0016304	Neurologic	classic pantothenate kinase-associated neurodegeneration
+MONDO_0016305	Neurologic	atypical pantothenate kinase-associated neurodegeneration
+MONDO_0016474	Irrelevant	drug-induced lupus erythematosus
+MONDO_0016575	Irrelevant	primary ciliary dyskinesia
+MONDO_0016664	Irrelevant	drug-induced vasculitis
+MONDO_0016987	Neurologic	neuroacanthocytosis
+MONDO_0017160	Disorder	behavioral variant of frontotemporal dementia
+MONDO_0017161	Disorder	frontotemporal dementia with motor neuron disease
+MONDO_0017174	Neurologic	Machado-Joseph disease type 1
+MONDO_0017175	Neurologic	Machado-Joseph disease type 2
+MONDO_0017176	Neurologic	Machado-Joseph disease type 3
+MONDO_0017276	Disorder	frontotemporal dementia
+MONDO_0017399	Disorder	frontotemporal dementia, right temporal atrophy variant
+MONDO_0017639	Irrelevant	carbon monoxide-induced parkinsonism
+MONDO_0017721	Neurologic	Sandhoff disease, infantile form
+MONDO_0017722	Neurologic	Sandhoff disease, juvenile form
+MONDO_0017723	Neurologic	Sandhoff disease, adult form
+MONDO_0017724	Neurologic	Tay-Sachs disease, b variant, infantile form
+MONDO_0017725	Neurologic	Tay-Sachs disease, b variant, juvenile form
+MONDO_0017726	Neurologic	Tay-Sachs disease, B variant, adult form
+MONDO_0017728	Neurologic	Tay-Sachs disease, B1 variant
+MONDO_0017729	Neurologic	metachromatic leukodystrophy, late infantile form
+MONDO_0017730	Neurologic	metachromatic leukodystrophy, adult form
+MONDO_0017809	Neurologic	parkinsonism due to ATP13A2 deficiency
+MONDO_0017945	Neurologic	ABetaL34V amyloidosis
+MONDO_0017946	Neurologic	ABeta amyloidosis, Iowa type
+MONDO_0017947	Neurologic	ABeta amyloidosis, Italian type
+MONDO_0017948	Neurologic	ABetaA21G amyloidosis
+MONDO_0017949	Neurologic	ABeta amyloidosis, Arctic type
+MONDO_0017998	Neurologic	PLA2G6-associated neurodegeneration
+MONDO_0017999	Neurologic	fatty acid hydroxylase-associated neurodegeneration
+MONDO_0018044	Disorder	idiopathic hypersomnia
+MONDO_0018130	Irrelevant	brain dopamine-serotonin vesicular transport disease
+MONDO_0018307	Neurologic	neurodegeneration with brain iron accumulation
+MONDO_0018321	Irrelevant	atypical juvenile parkinsonism
+MONDO_0018425	Neurologic	Huntington disease-like syndrome due to C9ORF72 expansions
+MONDO_0018544	Neurologic	adrenoleukodystrophy
+MONDO_0018696	Neurologic	corticobasal syndrome
+MONDO_0018740	Irrelevant	drug-induced methemoglobinemia
+MONDO_0018868	Neurologic	metachromatic leukodystrophy
+MONDO_0018899	Neurologic	posterior cortical atrophy
+MONDO_0018945	Disorder	McLeod neuroacanthocytosis syndrome
+MONDO_0019123	Neurologic	continuous spikes and waves during sleep
+MONDO_0019260	Neurologic	adult neuronal ceroid lipofuscinosis
+MONDO_0019261	Neurologic	infantile neuronal ceroid lipofuscinosis
+MONDO_0019262	Disorder	juvenile neuronal ceroid lipofuscinosis
+MONDO_0019535	Irrelevant	drug-induced autoimmune hemolytic anemia
+MONDO_0019544	Exposure/Environmental factor	cocaine intoxication
+MONDO_0019792	Neurologic	autosomal dominant cerebellar ataxia type I
+MONDO_0019793	Neurologic	autosomal dominant cerebellar ataxia type III
+MONDO_0019794	Neurologic	autosomal dominant cerebellar ataxia type IV
+MONDO_0020143	Neurologic	cerebral lipidosis with dementia
+MONDO_0020380	Neurologic	autosomal dominant cerebellar ataxia
+MONDO_0021104	Irrelevant	alcoholic fatty liver disease
+MONDO_0021107	Disorder	narcolepsy
+MONDO_0021698	Disorder	alcohol-related disorders
+MONDO_0021699	Disorder	alcohol-induced disorders
+MONDO_0024290	Irrelevant	enuresis
+MONDO_0024357	Neurologic	drug induced central sleep apnea
+MONDO_0024358	Neurologic	complex sleep apnea
+MONDO_0024361	Disorder	circadian rhythm sleep disorder
+MONDO_0024363	Neurologic	rapid eye movement sleep disorder
+MONDO_0024457	Neurologic	neurodegeneration with brain iron accumulation 2A
+MONDO_0030332	Irrelevant	ciliary dyskinesia, primary, 46
+MONDO_0030346	Irrelevant	ciliary dyskinesia, primary, 47, and lissencephaly
+MONDO_0030625	Irrelevant	dyskinesia with orofacial involvement, autosomal recessive
+MONDO_0030676	Irrelevant	parkinsonism-dystonia 3, childhood-onset
+MONDO_0030805	Neurologic	spinocerebellar ataxia 49
+MONDO_0030900	Irrelevant	intellectual developmental disorder with paroxysmal dyskinesia or seizures
+MONDO_0031054	Irrelevant	ciliary dyskinesia, primary, 48, without situs inversus
+MONDO_0031115	Irrelevant	dyskinesia with orofacial involvement
+MONDO_0031240	Disorder	familial panic disorder
+MONDO_0032637	Irrelevant	ciliary dyskinesia, primary, 39
+MONDO_0032664	Irrelevant	ciliary dyskinesia, primary, 40
+MONDO_0032874	Irrelevant	ciliary dyskinesia, primary, 43
+MONDO_0032914	Irrelevant	ciliary dyskinesia, primary, 44
+MONDO_0032924	Irrelevant	ciliary dyskinesia, primary, 45
+MONDO_0033204	Irrelevant	ciliary dyskinesia, primary, 37
+MONDO_0033312	Disorder	schizophrenia 19
+MONDO_0033479	Neurologic	spinocerebellar ataxia 44
+MONDO_0033482	Neurologic	spinocerebellar ataxia 47
+MONDO_0036193	Irrelevant	parkinsonism with polyneuropathy
+MONDO_0041086	Disorder	mixed anxiety and depressive disorder
+MONDO_0043224	Neurologic	multi-infarct dementia
+MONDO_0044202	Irrelevant	episodic kinesigenic dyskinesia
+MONDO_0044637	Irrelevant	infantile-onset generalized dyskinesia with orofacial involvement
+MONDO_0044701	Irrelevant	childhood-onset motor and cognitive regression syndrome with extrapyramidal movement disorder
+MONDO_0054763	Neurologic	neurodegeneration with brain iron accumulation 7
+MONDO_0054764	Neurologic	neurodegeneration with brain iron accumulation 8
+MONDO_0054843	Irrelevant	ciliary dyskinesia, primary, 38
+MONDO_0060758	Neurologic	spinocerebellar ataxia 42, early-onset, severe, with neurodevelopmental deficits
+MONDO_0100040	Disorder	FOXG1 disorder
+MONDO_0100087	Neurologic	familial Alzheimer disease
+MONDO_0100352	Irrelevant	episodic kinesigenic dyskinesia 1
+MONDO_0100518	Disorder	hereditary attention deficit-hyperactivity disorder
+MONDO_0100554	Disorder	hereditary narcolepsy
+MONDO_0100607	Irrelevant	ciliary dyskinesia, primary, 54
+MONDO_0100625	Neurologic	childhood-onset dementia
+MONDO_0700088	Irrelevant	paroxysmal nonkinesigenic dyskinesia
+MONDO_0700089	Irrelevant	paroxysmal nonkinesigenic dyskinesia 1
+MONDO_0800028	Irrelevant	dyskinesia with orofacial involvement, autosomal dominant
+MONDO_0850514	Neurologic	inclusion body myopathy and brain white matter abnormalities
+MONDO_0859211	Disorder	neurodevelopmental disorder with hyperkinetic movements and dyskinesia
+MONDO_0859257	Disorder	intellectual developmental disorder with language impairment and early-onset DOPA-responsive dystonia-parkinsonism
+MONDO_0859261	Disorder	attention deficit-hyperactivity disorder 8
+MONDO_0859334	Neurologic	spinocerebellar ataxia 50
+MONDO_0859340	Neurologic	spinocerebellar ataxia 27B, late-onset
+MONDO_0859353	Irrelevant	ciliary dyskinesia, primary, 49, without situs inversus
+MONDO_0859380	Irrelevant	episodic kinesigenic dyskinesia 3
+MONDO_0956980	Irrelevant	vascular parkinsonism
+MONDO_0957252	Irrelevant	ciliary dyskinesia, primary, 50
+MONDO_0957396	Irrelevant	ciliary dyskinesia, primary, 51
+MONDO_0957922	Irrelevant	ciliary dyskinesia, primary, 52
+MONDO_0957991	Irrelevant	ciliary dyskinesia, primary, 53
+MONDO_0958012	Neurologic	neurodegeneration with brain iron accumulation 9
+MONDO_0958231	Disorder	neurodevelopmental disorder with motor abnormalities, seizures, and facial dysmorphism
+MONDO_0958323	Disorder	neurodevelopmental disorder with early-onset parkinsonism and behavioral abnormalities
+MONDO_0976236	Irrelevant	neurodegenerative disorder, X-linked, female-restricted, with parkinsonism and cognitive impairment
+MONDO_1060152	Disorder	schizoaffective depressive disorder
+NCIT_C117245	Symptom	decreased attention
+NCIT_C74532	Symptom	nervousness
+NCIT_C95746	Symptom	sleepiness
+OBA_1000840	Exposure/Environmental factor	alcohol consumption quality
+OBA_1000977	Biomarker	serotonin level
+OBA_2001016	Exposure/Environmental factor	age of onset of alcohol dependence
+OBA_2040045	Treatment response/side effect	trait in response to antipsychotic agent
+OBA_2040089	Treatment response/side effect	trait in response to tetracyclic antidepressant
+OBA_2040161	Symptom	age of onset of major depressive disorder
+OBA_2040166	Symptom	age of onset of depressive disorder
+OBA_2040513	Irrelevant	level of alcohol dehydrogenase 1A in blood serum
+OBA_2040515	Irrelevant	level of alcohol dehydrogenase 1C in blood serum
+OBA_2040517	Irrelevant	level of alcohol dehydrogenase class-3 in blood serum
+OBA_2040518	Irrelevant	level of alcohol dehydrogenase 6 in blood serum
+OBA_2040902	Irrelevant	level of cocaine- and amphetamine-regulated transcript protein in blood serum
+OBA_2042354	Irrelevant	level of beta-1,3-N-acetylglucosaminyltransferase manic fringe in blood serum
+OBA_2042695	Irrelevant	level of opioid growth factor receptor in blood serum
+OBA_2044876	Irrelevant	level of required for drug-induced death protein 1 in blood serum
+OBA_2045374	Biomarker	brain serotonin transporter level
+OBA_2050086	Treatment response/side effect	serum clozapine amount
+OBA_2050116	Exposure/Environmental factor	smoking behavior trait
+OBA_2050795	Irrelevant	level of opioid growth factor receptor in blood
+OBA_2051304	Biomarker	level of cocaine esterase in blood
+OBA_2055964	Irrelevant	level of beta-1,3-N-acetylglucosaminyltransferase manic fringe (human) in cerebrospinal fluid
+OBA_2056580	Irrelevant	level of alcohol dehydrogenase 1C (human) in cerebrospinal fluid
+OBA_2056841	Irrelevant	level of alcohol dehydrogenase 1A (human) in cerebrospinal fluid
+OBA_2057073	Irrelevant	level of alcohol dehydrogenase class-3 (human) in cerebrospinal fluid
+OBA_2057556	Irrelevant	level of alcohol dehydrogenase 6 (human) in cerebrospinal fluid
+OBA_2058852	Irrelevant	level of opioid-binding protein/cell adhesion molecule (human) in cerebrospinal fluid
+OBA_2058992	Irrelevant	level of cocaine- and amphetamine-regulated transcript protein (human) in cerebrospinal fluid
+OBA_2081018	Irrelevant	level of required for drug-induced death protein 1 (human) in cerebrospinal fluid
+OBA_2081373	Irrelevant	level of opioid growth factor receptor (human) in cerebrospinal fluid
+EFO_0000677	Disorder	mental or behavioural disorder
+EFO_0001358	Disorder	post-traumatic stress disorder
+EFO_0002608	Neurologic	AIDS dementia
+EFO_0002610	Disorder	cocaine dependence
+EFO_0003096	Neurologic	Pick disease
+EFO_0003756	Disorder	autism spectrum disorder
+EFO_0003757	Disorder	Asperger syndrome
+EFO_0003758	Disorder	autism
+EFO_0003759	Disorder	pervasive developmental disorder - not otherwise specified
+EFO_0003768	Disorder	nicotine dependence
+EFO_0003877	Neurologic	sleep apnea
+EFO_0003888	Disorder	attention deficit hyperactivity disorder
+EFO_0003890	Disorder	drug dependence
+EFO_0003918	Neurologic	obstructive sleep apnea
+EFO_0004216	Disorder	conduct disorder
+EFO_0004228	Irrelevant	drug-induced liver injury
+EFO_0004240	Disorder	heroin dependence
+EFO_0004242	Disorder	obsessive-compulsive disorder
+EFO_0004247	Disorder	mood disorder
+EFO_0004257	Disorder	neurotic disorder
+EFO_0004262	Disorder	panic disorder
+EFO_0004318	Exposure/Environmental factor	smoking behavior
+EFO_0004319	Exposure/Environmental factor	smoking cessation
+EFO_0004320	Symptom	suicidal ideation
+EFO_0004321	Symptom	attempted suicide
+EFO_0004329	Exposure/Environmental factor	alcohol drinking
+EFO_0004567	Treatment response/side effect	antipsychotic drug related weight gain
+EFO_0004609	Treatment response/side effect	treatment refractory schizophrenia
+EFO_0004698	Disorder	insomnia
+EFO_0004701	Disorder	methamphetamine dependence
+EFO_0004718	Neurologic	vascular dementia
+EFO_0004776	Disorder	alcohol and nicotine codependence
+EFO_0004777	Symptom	alcohol withdrawal
+EFO_0004895	Disorder	Tourette syndrome
+EFO_0005203	Disorder	eating disorder
+EFO_0005204	Disorder	bulimia nervosa
+EFO_0005223	Disorder	acute stress reaction
+EFO_0005242	Disorder	methamphetamine-induced psychosis
+EFO_0005246	Disorder	hypersomnia
+EFO_0005250	Disorder	occupation-related stress disorder
+EFO_0005407	Disorder	psychosis
+EFO_0005411	Disorder	schizoaffective disorder
+EFO_0005424	Symptom	dyslexia
+EFO_0005425	Disorder	language impairment
+EFO_0005430	Exposure/Environmental factor	nicotine use
+EFO_0005548	Disorder	developmental disorder of mental health
+EFO_0005602	Exposure/Environmental factor	age at alcohol diagnosis
+EFO_0005611	Disorder	opioid dependence
+EFO_0005612	Disorder	morphine dependence
+EFO_0005658	Treatment response/side effect	response to selective serotonin reuptake inhibitor
+EFO_0005670	Exposure/Environmental factor	smoking initiation
+EFO_0005799	Disorder	neonatal abstinence syndrome
+EFO_0005800	Exposure/Environmental factor	substance withdrawal syndrome
+EFO_0005855	Disorder	narcolepsy without cataplexy
+EFO_0005924	Symptom	binge eating
+EFO_0005940	Symptom	psychotic symptoms
+EFO_0006320	Treatment response/side effect	antidepressant-induced side effect
+EFO_0006321	Treatment response/side effect	antidepressant-induced dizziness
+EFO_0006322	Treatment response/side effect	antidepressant-induced sexual dysfunction
+EFO_0006323	Treatment response/side effect	antidepressant-induced visual impairment
+EFO_0006324	Treatment response/side effect	antidepressant-induced hearing impairment
+EFO_0006325	Treatment response/side effect	response to serotonin-norephinephrine reuptake inhibitor
+EFO_0006507	Biomarker	nicotine glucuronidation measurement
+EFO_0006527	Exposure/Environmental factor	smoking status measurement
+EFO_0006788	Disorder	anxiety disorder
+EFO_0006790	Neurologic	cerebral amyloid angiopathy
+EFO_0006792	Neurologic	Lewy body dementia
+EFO_0006882	Symptom	suicide behaviour measurement
+EFO_0007006	Symptom	depressive symptom measurement
+EFO_0007010	Irrelevant	drug use measurement
+EFO_0007136	Symptom	agnosia
+EFO_0007169	Irrelevant	biliary dyskinesia
+EFO_0007191	Disorder	cannabis dependence
+EFO_0007335	Disorder	Kluver-Bucy syndrome
+EFO_0007428	Disorder	periodic limb movement disorder
+EFO_0007436	Disorder	phencyclidine abuse
+EFO_0007453	Disorder	postpartum depression
+EFO_0007462	Neurologic	REM sleep behavior disorder
+EFO_0007585	Exposure/Environmental factor	Cannabis use
+EFO_0007586	Exposure/Environmental factor	Cannabis use initiation
+EFO_0007619	Symptom	suicide ideation measurement
+EFO_0007623	Symptom	suicide behaviour
+EFO_0007624	Symptom	suicide
+EFO_0007634	Symptom	major depressive episode
+EFO_0007645	Exposure/Environmental factor	longitudinal alcohol consumption measurement
+EFO_0007704	Symptom	depressive episode measurement
+EFO_0007705	Symptom	manic episode measurement
+EFO_0007706	Symptom	manic or hypomanic episode
+EFO_0007781	Exposure/Environmental factor	stressful life event measurement
+EFO_0007792	Exposure/Environmental factor	antipsychotic drug use measurement
+EFO_0007794	Biomarker	nicotine metabolite ratio
+EFO_0007795	Disorder	anxiety disorder measurement
+EFO_0007802	Symptom	obsessive-compulsive symptom measurement
+EFO_0007835	Disorder	alcohol dependence measurement
+EFO_0007916	Treatment response/side effect	response to tricyclic antidepressant
+EFO_0007979	Exposure/Environmental factor	childhood trauma measurement
+EFO_0008017	Irrelevant	alcohol dehydrogenase [NADP+] measurement
+EFO_0008337	Symptom	psychosis predisposition measurement
+EFO_0008457	Disorder	cannabis dependence measurement
+EFO_0008483	Exposure/Environmental factor	response to trauma exposure
+EFO_0008541	Treatment response/side effect	response to opioid
+EFO_0008568	Disorder	Sleep Disorder
+EFO_0008573	Irrelevant	alcoholic liver disease
+EFO_0008587	Disorder	gender identity disorder
+EFO_0008607	Irrelevant	drug-induced pemphigus
+EFO_0008623	Disorder	dysthymic disorder
+EFO_0009059	Neurologic	Spinocerebellar ataxia type 42
+EFO_0009113	Exposure/Environmental factor	alcohol exposure measurement
+EFO_0009182	Symptom	psychotic symptom measurement
+EFO_0009262	Symptom	nicotine dependence symptom count
+EFO_0009263	Symptom	nicotine withdrawal symptom count
+EFO_0009267	Disorder	delirium
+EFO_0009362	Exposure/Environmental factor	nicotine withdrawal measurement
+EFO_0009458	Disorder	alcohol use disorder measurement
+EFO_0009574	Irrelevant	intoxication
+EFO_0009587	Symptom	anhedonia measurement
+EFO_0009687	Disorder	somatoform disorder
+EFO_0009752	Symptom	visuospatial impairment
+EFO_0009843	Disorder	substance-induced sleep disorder
+EFO_0009854	Treatment response/side effect	treatment resistant depression
+EFO_0009863	Symptom	anxiety measurement
+EFO_0009867	Symptom	dysphoria
+EFO_0009874	Symptom	decreased anxiety-related response
+EFO_0009888	Exposure/Environmental factor	trauma complication
+EFO_0009923	Irrelevant	Peptic ulcer and gastro-oesophageal reflux disease (GORD) drug use measurement
+EFO_0009937	Exposure/Environmental factor	Opioid use measurement
+EFO_0009940	Exposure/Environmental factor	Antidepressant use measurement
+EFO_0009963	Disorder	bipolar I disorder
+EFO_0009964	Disorder	bipolar II disorder
+EFO_0009965	Disorder	Schizoaffective disorder-bipolar type
+EFO_0010098	Disorder	stress-related disorder
+EFO_0010140	Symptom	opioid overdose severity measurement
+EFO_0010445	Disorder	cocaine use disorder
+EFO_0010553	Exposure/Environmental factor	cocaine use measurement
+EFO_0010702	Disorder	opioid use disorder
+EFO_0010703	Exposure/Environmental factor	trauma exposure measurement
+EFO_0011049	Exposure/Environmental factor	drug misuse
+EFO_0011059	Exposure/Environmental factor	psychiatric toxicity
+EFO_0020103	Disorder	childhood gender nonconformity
+EFO_0020618	Irrelevant	opioid-binding protein/cell adhesion molecule measurement
+EFO_0020911	Exposure/Environmental factor	overdose
+EFO_0020914	Symptom	disorientation
+EFO_0020916	Irrelevant	performance enhancing product use
+EFO_0020923	Exposure/Environmental factor	accidental overdose
+EFO_0020924	Exposure/Environmental factor	intentional overdose
+EFO_0020971	Disorder	internalizing disorder
+EFO_0020981	Irrelevant	dependence on enabling machines and devices
+EFO_0021784	Exposure/Environmental factor	age at initiation of smoking
+EFO_0021785	Exposure/Environmental factor	age at initiation of cannabis use
+EFO_0021977	Irrelevant	alcohol dehydrogenase [NADP(+)] measurement
+EFO_0022191	Neurologic	late-onset spinocerebellar ataxia 27b
+EFO_0022214	Irrelevant	blood vanillic alcohol sulfate measurement
+EFO_0022375	Exposure/Environmental factor	protection against nicotine dependence
+EFO_0022909	Neurologic	spinocerebellar ataxia 51
+EFO_0022957	Neurologic	early-onset Alzheimers disease
+EFO_0600038	Treatment response/side effect	plasma clozapine measurement
+EFO_0600040	Treatment response/side effect	plasma clozapine-to-N-desmethylclozapine ratio measurement
+EFO_0600042	Treatment response/side effect	serum clozapine-to-N-desmethylclozapine ratio measurement
+EFO_0600051	Treatment response/side effect	response to smoking cessation agent
+EFO_0801360	Irrelevant	alcohol dehydrogenase 1B measurement
+EFO_0802261	Irrelevant	alcohol dehydrogenase 4 measurement
+EFO_0802311	Irrelevant	beta-1,3-N-acetylglucosaminyltransferase manic fringe measurement
+EFO_0802409	Irrelevant	cocaine- and amphetamine-regulated transcript protein measurement
+EFO_0803361	Disorder	hoarding disorder
+EFO_0803367	Irrelevant	antihyperlipidemic drug use measurement
+EFO_0803368	Disorder	internet addiction disorder
+EFO_0803467	Biomarker	nicotine measurement
+EFO_1000800	Disorder	alcohol withdrawal delirium
+EFO_1000801	Irrelevant	alcoholic cardiomyopathy
+EFO_1000802	Irrelevant	alcoholic liver cirrhosis
+EFO_1000902	Disorder	drug psychosis
+EFO_1000903	Treatment response/side effect	drug-induced akathisia
+EFO_1000904	Treatment response/side effect	drug-Induced dyskinesia
+EFO_1000905	Irrelevant	drug-induced hepatitis
+EFO_1001241	Neurologic	Wernicke encephalopathy
+EFO_1001260	Disorder	alcoholic psychosis
+EFO_1001345	Irrelevant	Hepatitis, Alcoholic
+EFO_1001354	Disorder	Kleine-Levin Syndrome
+EFO_1001379	Treatment response/side effect	neuroleptic malignant syndrome
+EFO_1001454	Symptom	amnesia
+EFO_1001484	Neurologic	pain agnosia
+EFO_1001500	Disorder	intellectual disability with language impairment
+EFO_1001510	Disorder	specific language impairment
+EFO_1001759	Disorder	alcohol amnestic disorder
+EFO_1001790	Disorder	female athlete triad syndrome
+EFO_1001827	Disorder	post-concussion syndrome
+EFO_1001842	Treatment response/side effect	Serotonin Syndrome
+EFO_1001870	Neurologic	late-onset Alzheimers disease
+EFO_1001872	Disorder	agoraphobia
+EFO_1001873	Disorder	AIDS phobia
+EFO_1001876	Disorder	animal phobia
+EFO_1001877	Symptom	anxiety-like behavior
+EFO_1001878	Disorder	blood-injection-injury phobia
+EFO_1001879	Disorder	cancerophobia
+EFO_1001884	Disorder	dental phobia
+EFO_1001889	Disorder	flying phobia
+EFO_1001892	Disorder	generalized anxiety disorder
+EFO_1001903	Disorder	nosophobia
+EFO_1001906	Disorder	panic disorder with agoraphobia
+EFO_1001907	Disorder	panic disorder without agoraphobia
+EFO_1001908	Disorder	phobic disorder
+EFO_1001916	Disorder	separation anxiety disorder
+EFO_1001917	Disorder	social anxiety disorder
+EFO_1001918	Disorder	specific phobia
+EFO_1001920	Symptom	stress-induced anxiety-like behavior
+EFO_1001926	Symptom	pathological gambling
+EFO_1002013	Irrelevant	alcoholic pancreatitis
+EFO_1002014	Symptom	melancholia
+Orphanet_101	Disorder	Dentatorubral pallidoluysian atrophy
+Orphanet_136	Neurologic	CADASIL
+Orphanet_1429	Neurologic	Benign familial chorea
+Orphanet_1882	Irrelevant	Hypohidrotic ectodermal dysplasia - hypothyroidism - ciliary dyskinesia
+Orphanet_199351	Neurologic	Adult-onset dystonia-parkinsonism
+Orphanet_2379	Irrelevant	Early-onset parkinsonism - intellectual disability
+Orphanet_238455	Irrelevant	Infantile dystonia-parkinsonism
+Orphanet_2388	Disorder	Choreoacanthocytosis
+Orphanet_240071	Neurologic	Classical progressive supranuclear palsy
+Orphanet_240085	Neurologic	Progressive supranuclear palsy - parkinsonism
+Orphanet_240094	Neurologic	Progressive supranuclear palsy - pure akinesia with gait freezing
+Orphanet_240103	Neurologic	Progressive supranuclear palsy - corticobasal syndrome
+Orphanet_240112	Neurologic	Progressive supranuclear palsy - progressive non fluent aphasia
+Orphanet_247522	Irrelevant	Primary ciliary dyskinesia - retinitis pigmentosa
+Orphanet_2828	Irrelevant	Young adult-onset Parkinsonism
+Orphanet_293848	Neurologic	Right temporal lobar atrophy
+Orphanet_3077	Disorder	X-linked intellectual disability - psychosis - macroorchidism
+Orphanet_324588	Irrelevant	Familial dyskinesia and facial myokymia
+Orphanet_71517	Irrelevant	Rapid-onset dystonia-parkinsonism
+Orphanet_79137	Irrelevant	Generalized epilepsy - paroxysmal dyskinesia
+Orphanet_98757	Neurologic	Spinocerebellar ataxia type 3
+Orphanet_98811	Irrelevant	Paroxysmal exertion-induced dyskinesia
+Orphanet_99750	Neurologic	Atypical progressive supranuclear palsy
