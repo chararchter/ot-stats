@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+.python-version
+.vscode/
+Pages_and_screens_Page_path_and_screen_class.csv
